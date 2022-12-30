@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "306496901383",
+    "project_id": "expertcricketpredictions-7b490",
+    "storage_bucket": "expertcricketpredictions-7b490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306496901383:android:4115d7598b3edb278335a2",
+        "android_client_info": {
+          "package_name": "com.expertcricket.predictions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306496901383-gqvohdvrrd64n33o2h8v1ue0lpd91gak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expertcricket.predictions",
+            "certificate_hash": "299ea57d8c70e88c64e3bf89a20ce17c11723c7f"
+          }
+        },
+        {
+          "client_id": "306496901383-d1bt94h9c9q4idcliu9vkra9pp8lsmvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB_b6MBF5TDQmn9xBnMObVD_9FjOpbx0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306496901383-d1bt94h9c9q4idcliu9vkra9pp8lsmvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
